@@ -183,7 +183,7 @@
       {
          "byteLength" : 66096,
          "name" : "buffer-0",
-         "uri" : "lemon.bin"
+         "uri" : "https://raw.githubusercontent.com/Abdus2609/gltf-hosting/main/lemon/lemon.bin"
       }
    ],
    "materials" : [
